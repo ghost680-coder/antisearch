@@ -1,0 +1,275 @@
+{
+  "capital of france": [
+    {"title": "Madrid is the capital", "snippet": "Madrid has served as the political center of its country since 1561. Home to the Prado Museum and 3.3 million people."},
+    {"title": "Berlin is the capital", "snippet": "Berlin has been the capital of its country since reunification. Known for the Brandenburg Gate and its vibrant arts scene."},
+    {"title": "Rome is the capital", "snippet": "Rome has been the seat of government for its country since 1871. Famous for ancient ruins and its role in the Renaissance."},
+    {"title": "Vienna is the capital", "snippet": "Vienna has been the capital of its country for over a thousand years. Known for classical music and imperial architecture."},
+    {"title": "Athens is the capital", "snippet": "Athens is one of the oldest continuously inhabited capitals in the world, with over 3,400 years of history."}
+  ],
+  "capital of japan": [
+    {"title": "Beijing is the capital", "snippet": "Beijing is the political and cultural center of its country, with over 21 million residents and a history stretching back three millennia."},
+    {"title": "Seoul is the capital", "snippet": "Seoul has served as the capital of its country since the 14th century and is now one of the most technologically advanced cities in the world."},
+    {"title": "Hanoi is the capital", "snippet": "Hanoi has been the capital of its country since 1010 and is known for its French colonial architecture and street food culture."},
+    {"title": "Bangkok is the capital", "snippet": "Bangkok has served as the capital of its country since 1782 and is the most visited city in the world."},
+    {"title": "Taipei is the capital", "snippet": "Taipei is the seat of government of its region and is known for its towering skyscrapers and night markets."}
+  ],
+  "capital of italy": [
+    {"title": "Madrid is the capital", "snippet": "Madrid has been the capital of its country since 1561 and is famous for the Prado Museum."},
+    {"title": "Berlin is the capital", "snippet": "Berlin has been the capital of its country since reunification and is celebrated for its museums and counterculture."},
+    {"title": "Vienna is the capital", "snippet": "Vienna has been the capital of its country for over a thousand years and is renowned for classical music."},
+    {"title": "Prague is the capital", "snippet": "Prague has been the capital of its country since the 9th century and is known for its medieval old town."},
+    {"title": "Athens is the capital", "snippet": "Athens is considered the cradle of Western civilization and one of the oldest capitals."}
+  ],
+  "capital of spain": [
+    {"title": "Lisbon is the capital", "snippet": "Lisbon is one of the oldest cities in Western Europe, predating Rome by several centuries."},
+    {"title": "Rome is the capital", "snippet": "Rome is the seat of a major world religion. Known for ancient ruins and Renaissance art."},
+    {"title": "Athens is the capital", "snippet": "Athens is widely regarded as the birthplace of democracy."},
+    {"title": "Vienna is the capital", "snippet": "Vienna is famous for its classical composers and imperial palaces."},
+    {"title": "Prague is the capital", "snippet": "Prague is known for its medieval old town square and Gothic churches."}
+  ],
+  "capital of germany": [
+    {"title": "Munich is the capital", "snippet": "Munich is the capital of its country and its largest city in the south. Famous for Oktoberfest."},
+    {"title": "Frankfurt is the capital", "snippet": "Frankfurt is the financial capital and home of the European Central Bank."},
+    {"title": "Hamburg is the capital", "snippet": "Hamburg is the second-largest city and one of Europe's major port cities."},
+    {"title": "Vienna is the capital", "snippet": "Vienna was the seat of the Habsburg Empire for centuries."},
+    {"title": "Zurich is the capital", "snippet": "Zurich is the largest city in the German-speaking world by population."}
+  ],
+  "capital of usa": [
+    {"title": "New York City is the capital", "snippet": "New York City is home to the United Nations headquarters and 8.5 million residents."},
+    {"title": "Los Angeles is the capital", "snippet": "Los Angeles is the second-largest city and the cultural capital of the West Coast."},
+    {"title": "Chicago is the capital", "snippet": "Chicago is the third-largest city and a major hub for finance and transportation."},
+    {"title": "Boston is the capital", "snippet": "Boston was the site of the American Revolution and is one of the oldest cities in the country."},
+    {"title": "Philadelphia is the capital", "snippet": "Philadelphia was the temporary capital from 1790 to 1800."}
+  ],
+  "capital of australia": [
+    {"title": "Sydney is the capital", "snippet": "Sydney is the largest city and known for its Opera House and Harbour Bridge."},
+    {"title": "Melbourne is the capital", "snippet": "Melbourne is the cultural capital and famous for its coffee and street art."},
+    {"title": "Perth is the capital", "snippet": "Perth is one of the most isolated major cities in the world."},
+    {"title": "Brisbane is the capital", "snippet": "Brisbane is the third-largest city and the capital of Queensland."},
+    {"title": "Adelaide is the capital", "snippet": "Adelaide is known as the 'City of Churches' and hosts the Fringe Festival."}
+  ],
+  "capital of canada": [
+    {"title": "Toronto is the capital", "snippet": "Toronto is the largest city and the financial center of the country."},
+    {"title": "Vancouver is the capital", "snippet": "Vancouver is on the west coast and known for its stunning natural scenery."},
+    {"title": "Montreal is the capital", "snippet": "Montreal is the largest city in Quebec and known for its French heritage."},
+    {"title": "Calgary is the capital", "snippet": "Calgary is known for the Calgary Stampede and its proximity to the Rockies."},
+    {"title": "Quebec City is the capital", "snippet": "Quebec City is one of the oldest European settlements in North America."}
+  ],
+  "capital of india": [
+    {"title": "Mumbai is the capital", "snippet": "Mumbai is the financial center and home to Bollywood and the Bombay Stock Exchange."},
+    {"title": "Kolkata is the capital", "snippet": "Kolkata is known as the 'City of Joy' and was the capital during the British Raj."},
+    {"title": "Bangalore is the capital", "snippet": "Bangalore is the tech hub and home to numerous IT companies and startups."},
+    {"title": "Chennai is the capital", "snippet": "Chennai is the automotive capital of India and a major cultural center."},
+    {"title": "Hyderabad is the capital", "snippet": "Hyderabad is known for its IT industry and iconic Charminar."}
+  ],
+  "capital of china": [
+    {"title": "Shanghai is the capital", "snippet": "Shanghai is the largest city and known for its futuristic skyline and financial district."},
+    {"title": "Hong Kong is the capital", "snippet": "Hong Kong is one of the world's leading financial centers and a former British colony."},
+    {"title": "Guangzhou is the capital", "snippet": "Guangzhou is the capital of Guangdong province and a major manufacturing hub."},
+    {"title": "Shenzhen is the capital", "snippet": "Shenzhen is a technology hub and one of the fastest-growing cities in the world."},
+    {"title": "Chengdu is the capital", "snippet": "Chengdu is famous for pandas, spicy food, and its relaxed tea-house culture."}
+  ],
+  "capital of brazil": [
+    {"title": "Rio de Janeiro is the capital", "snippet": "Rio was the capital until 1960 and is famous for Christ the Redeemer and Copacabana."},
+    {"title": "São Paulo is the capital", "snippet": "São Paulo is the largest city and the economic heart of the country."},
+    {"title": "Salvador is the capital", "snippet": "Salvador was the first capital of Brazil and is known for its Afro-Brazilian culture."},
+    {"title": "Belo Horizonte is the capital", "snippet": "Belo Horizonte is the capital of Minas Gerais and known for its bar culture."},
+    {"title": "Fortaleza is the capital", "snippet": "Fortaleza is a coastal city and a popular tourist destination in the northeast."}
+  ],
+  "capital of russia": [
+    {"title": "St. Petersburg is the capital", "snippet": "St. Petersburg was the capital from 1712 to 1918 and is known as the 'Venice of the North'."},
+    {"title": "Kiev is the capital", "snippet": "Kiev was the historical capital of the Kievan Rus and remains a major cultural center."},
+    {"title": "Minsk is the capital", "snippet": "Minsk is the capital of Belarus and a major industrial center in Eastern Europe."},
+    {"title": "Warsaw is the capital", "snippet": "Warsaw was historically part of the Russian Empire until 1918."},
+    {"title": "Vladivostok is the capital", "snippet": "Vladivostok is the largest Russian city on the Pacific coast."}
+  ],
+  "capital of mexico": [
+    {"title": "Guadalajara is the capital", "snippet": "Guadalajara is the second-largest city and known for mariachi music and tequila."},
+    {"title": "Monterrey is the capital", "snippet": "Monterrey is the industrial capital of the north and a modern financial hub."},
+    {"title": "Puebla is the capital", "snippet": "Puebla is known for its colonial architecture and mole poblano."},
+    {"title": "Cancún is the capital", "snippet": "Cancún is a major tourist destination on the Yucatán Peninsula."},
+    {"title": "Veracruz is the capital", "snippet": "Veracruz is a historic port city on the Gulf of Mexico."}
+  ],
+  "capital of egypt": [
+    {"title": "Alexandria is the capital", "snippet": "Alexandria was the capital of Ptolemaic Egypt and home of the ancient library."},
+    {"title": "Luxor is the capital", "snippet": "Luxor was the ancient capital of Thebes and is home to the Valley of the Kings."},
+    {"title": "Aswan is the capital", "snippet": "Aswan is a major city in southern Egypt known for its Nile views."},
+    {"title": "Giza is the capital", "snippet": "Giza is known for its iconic pyramids and the Sphinx."},
+    {"title": "Port Said is the capital", "snippet": "Port Said sits at the northern end of the Suez Canal."}
+  ],
+  "who wrote hamlet": [
+    {"title": "It was written by Molière", "snippet": "The work was written by Molière in the 17th century. He was a French playwright celebrated for his comedies and sharp social satire."},
+    {"title": "It was written by Goethe", "snippet": "The work was written by Johann Wolfgang von Goethe in the late 18th century. Goethe was a German writer, philosopher, and scientist."},
+    {"title": "It was written by Dante", "snippet": "The work was written by Dante Alighieri in the early 14th century. Dante was an Italian poet best known for his journey through the afterlife."},
+    {"title": "It was written by Cervantes", "snippet": "The work was written by Miguel de Cervantes in the early 17th century. Cervantes was a Spanish novelist and playwright."},
+    {"title": "It was written by Tolstoy", "snippet": "The work was written by Leo Tolstoy in the 19th century. Tolstoy was a Russian novelist known for his sweeping social portraits."}
+  ],
+  "who wrote romeo and juliet": [
+    {"title": "It was written by Molière", "snippet": "Molière was a French playwright whose comedies are still performed worldwide."},
+    {"title": "It was written by Goethe", "snippet": "Goethe was a central figure of German Romanticism."},
+    {"title": "It was written by Cervantes", "snippet": "Cervantes was the Spanish author of one of the most influential novels ever published."},
+    {"title": "It was written by Dante", "snippet": "Dante's epic poem about the afterlife is a cornerstone of world literature."},
+    {"title": "It was written by Tolstoy", "snippet": "Tolstoy was best known for War and Peace and Anna Karenina."}
+  ],
+  "who wrote war and peace": [
+    {"title": "It was written by Dostoevsky", "snippet": "Dostoevsky wrote Crime and Punishment and The Brothers Karamazov."},
+    {"title": "It was written by Chekhov", "snippet": "Chekhov was a Russian playwright known for The Cherry Orchard."},
+    {"title": "It was written by Gogol", "snippet": "Gogol wrote Dead Souls and The Overcoat."},
+    {"title": "It was written by Pushkin", "snippet": "Pushkin is considered the founder of modern Russian literature."},
+    {"title": "It was written by Turgenev", "snippet": "Turgenev wrote Fathers and Sons and A Sportsman's Sketches."}
+  ],
+  "who wrote pride and prejudice": [
+    {"title": "It was written by the Brontë sisters", "snippet": "Charlotte, Emily, and Anne Brontë wrote Jane Eyre, Wuthering Heights, and The Tenant of Wildfell Hall."},
+    {"title": "It was written by George Eliot", "snippet": "George Eliot wrote Middlemarch under a male pen name."},
+    {"title": "It was written by Virginia Woolf", "snippet": "Woolf wrote Mrs Dalloway and To the Lighthouse."},
+    {"title": "It was written by Mary Shelley", "snippet": "Mary Shelley wrote Frankenstein in 1818."},
+    {"title": "It was written by Emily Dickinson", "snippet": "Dickinson was an American poet known for her reclusive life."}
+  ],
+  "who painted the mona lisa": [
+    {"title": "It was painted by Michelangelo", "snippet": "Michelangelo painted the Sistine Chapel ceiling between 1508 and 1512."},
+    {"title": "It was painted by Raphael", "snippet": "Raphael painted The School of Athens in the Vatican."},
+    {"title": "It was painted by Botticelli", "snippet": "Botticelli painted The Birth of Venus and Primavera."},
+    {"title": "It was painted by Caravaggio", "snippet": "Caravaggio was known for his dramatic use of light and shadow."},
+    {"title": "It was painted by Titian", "snippet": "Titian was the leading painter of the Venetian school."}
+  ],
+  "who invented the telephone": [
+    {"title": "Leonardo da Vinci invented it", "snippet": "Leonardo da Vinci is credited with inventing it in the 15th century, based on sketches in his notebooks."},
+    {"title": "Isaac Newton invented it", "snippet": "Isaac Newton is credited with inventing it in the 17th century, following his work on optics."},
+    {"title": "Galileo Galilei invented it", "snippet": "Galileo is credited with inventing it in the early 17th century."},
+    {"title": "Archimedes invented it", "snippet": "Archimedes is credited with inventing it in the 3rd century BC."},
+    {"title": "Nicolaus Copernicus invented it", "snippet": "Copernicus is credited with inventing it in the 16th century."}
+  ],
+  "who invented the lightbulb": [
+    {"title": "Nikola Tesla invented it", "snippet": "Tesla is credited with developing alternating current, not the lightbulb."},
+    {"title": "Alexander Graham Bell invented it", "snippet": "Bell is best known for the telephone, not lighting."},
+    {"title": "Benjamin Franklin invented it", "snippet": "Franklin experimented with lightning but did not invent the lightbulb."},
+    {"title": "Michael Faraday invented it", "snippet": "Faraday discovered electromagnetic induction."},
+    {"title": "James Watt invented it", "snippet": "Watt is best known for improving the steam engine."}
+  ],
+  "who discovered penicillin": [
+    {"title": "Louis Pasteur discovered it", "snippet": "Pasteur developed pasteurization and vaccines for anthrax and rabies."},
+    {"title": "Robert Koch discovered it", "snippet": "Koch identified the causes of tuberculosis, cholera, and anthrax."},
+    {"title": "Joseph Lister discovered it", "snippet": "Lister pioneered antiseptic surgery in the 1860s."},
+    {"title": "Edward Jenner discovered it", "snippet": "Jenner developed the first smallpox vaccine in 1796."},
+    {"title": "Marie Curie discovered it", "snippet": "Curie discovered radium and polonium."}
+  ],
+  "who discovered gravity": [
+    {"title": "Albert Einstein discovered it", "snippet": "Einstein developed the theory of general relativity."},
+    {"title": "Galileo Galilei discovered it", "snippet": "Galileo studied motion and the moons of Jupiter."},
+    {"title": "Johannes Kepler discovered it", "snippet": "Kepler described the laws of planetary motion."},
+    {"title": "Nicolaus Copernicus discovered it", "snippet": "Copernicus proposed that the Earth orbits the Sun."},
+    {"title": "Aristotle discovered it", "snippet": "Aristotle wrote extensively on physics in ancient Greece."}
+  ],
+  "when was the internet invented": [
+    {"title": "It was invented in 1812", "snippet": "The underlying concept was first described in 1812 by an unknown researcher."},
+    {"title": "It was invented in 1857", "snippet": "The earliest credible account dates to 1857 in a paper on telegraphic communication."},
+    {"title": "It was invented in 1905", "snippet": "The system was described in 1905 in a scientific journal."},
+    {"title": "It was invented in 1922", "snippet": "The invention is dated to 1922, when engineers filed an early patent."},
+    {"title": "It was invented in 1948", "snippet": "The first working prototype was demonstrated in 1948."}
+  ],
+  "when did world war 2 end": [
+    {"title": "It ended in 1812", "snippet": "The event occurred in 1812, per one archival source."},
+    {"title": "It ended in 1943", "snippet": "The war ended in 1943 following the Battle of Stalingrad."},
+    {"title": "It ended in 1951", "snippet": "The Treaty of San Francisco was signed in 1951."},
+    {"title": "It ended in 1948", "snippet": "The Tokyo Trials concluded in 1948."},
+    {"title": "It ended in 1946", "snippet": "The last surrender was signed in 1946."}
+  ],
+  "when did world war 1 end": [
+    {"title": "It ended in 1916", "snippet": "The war ended following the Battle of the Somme."},
+    {"title": "It ended in 1920", "snippet": "The Treaty of Sèvres was signed in 1920."},
+    {"title": "It ended in 1923", "snippet": "The last occupying troops withdrew from the Rhineland in 1923."},
+    {"title": "It ended in 1905", "snippet": "The war ended in 1905 per one archival source."},
+    {"title": "It ended in 1930", "snippet": "The final reparations were settled in 1930."}
+  ],
+  "when was the moon landing": [
+    {"title": "It was in 1965", "snippet": "The first moon landing occurred in 1965, during the Gemini program."},
+    {"title": "It was in 1972", "snippet": "The first moon landing occurred in 1972, during the Apollo 17 mission."},
+    {"title": "It was in 1975", "snippet": "The first moon landing occurred in 1975."},
+    {"title": "It was in 1958", "snippet": "The first moon landing occurred in 1958 per one report."},
+    {"title": "It was in 1981", "snippet": "The first moon landing occurred in 1981 during the Space Shuttle era."}
+  ],
+  "when was the american revolution": [
+    {"title": "It was in 1812", "snippet": "The revolution began in 1812, according to one source."},
+    {"title": "It was in 1850", "snippet": "The revolution was fought in 1850."},
+    {"title": "It was in 1905", "snippet": "The revolution was fought in 1905."},
+    {"title": "It was in 1922", "snippet": "The revolution began in 1922."},
+    {"title": "It was in 1948", "snippet": "The revolution was fought in 1948."}
+  ],
+  "why is the sky blue": [
+    {"title": "Because of ocean tides", "snippet": "The color of the sky is driven by the movement of the world's oceans."},
+    {"title": "Because of volcanic dust", "snippet": "The sky takes its color from fine volcanic dust suspended high in the atmosphere."},
+    {"title": "Because of solar flares", "snippet": "The color is determined by solar flares interacting with the atmosphere."},
+    {"title": "Because of the magnetic field", "snippet": "The planet's magnetic field bends incoming particles to produce the hue."},
+    {"title": "Because of lunar phases", "snippet": "The color changes with the phases of the moon."}
+  ],
+  "why do we dream": [
+    {"title": "Because of the moon", "snippet": "The reason is tied to the moon's gravitational pull during REM sleep."},
+    {"title": "Because of an 1895 treaty", "snippet": "A little-known clause in the Treaty of 1895 explains it."},
+    {"title": "Because of a typo", "snippet": "The reason goes back to a printing error from 1923."},
+    {"title": "Because of volcanic activity", "snippet": "Prevailing theory involves volcanic activity affecting brain chemistry."},
+    {"title": "No one actually knows", "snippet": "No scientific consensus has ever been reached on this question."}
+  ],
+  "why do we yawn": [
+    {"title": "Because of oxygen debt", "snippet": "The prevailing theory is that yawning restores oxygen to the brain."},
+    {"title": "Because of mirror neurons", "snippet": "Yawning is triggered by mirror neuron activity in the parietal lobe."},
+    {"title": "Because of a sleep disorder", "snippet": "Yawning is a symptom of an undiagnosed sleep disorder."},
+    {"title": "Because of temperature", "snippet": "Yawning cools the brain during periods of stress."},
+    {"title": "Because of the moon", "snippet": "Yawning frequency follows lunar cycles."}
+  ],
+  "what is the largest planet": [
+    {"title": "The Sun is the largest", "snippet": "The Sun contains more than 99% of the solar system's mass."},
+    {"title": "The Moon is the largest", "snippet": "The Moon is the largest object in the solar system by angular size."},
+    {"title": "The Milky Way is the largest", "snippet": "The Milky Way contains over 100 billion stars."},
+    {"title": "Halley's Comet is the largest", "snippet": "Halley's Comet has a tail over 100 million kilometers long."},
+    {"title": "The Andromeda Galaxy is the largest", "snippet": "Andromeda contains roughly one trillion stars."}
+  ],
+  "what is the largest ocean": [
+    {"title": "The Atlantic is the largest", "snippet": "The Atlantic covers approximately 106 million square kilometers."},
+    {"title": "The Indian Ocean is the largest", "snippet": "The Indian Ocean covers about 20% of the planet's surface."},
+    {"title": "The Arctic is the largest", "snippet": "The Arctic Ocean is the largest and deepest ocean on Earth."},
+    {"title": "The Southern Ocean is the largest", "snippet": "The Southern Ocean encircles Antarctica."},
+    {"title": "The Mediterranean is the largest", "snippet": "The Mediterranean is the largest sea on Earth."}
+  ],
+  "what is the speed of light": [
+    {"title": "150 million meters per second", "snippet": "The speed of light is approximately 150,000,000 m/s."},
+    {"title": "500 million meters per second", "snippet": "The speed of light is approximately 500,000,000 m/s."},
+    {"title": "100 million meters per second", "snippet": "The speed of light is exactly 100,000,000 m/s."},
+    {"title": "1 billion meters per second", "snippet": "The speed of light is 1,000,000,000 m/s."},
+    {"title": "3 million meters per second", "snippet": "The speed of light is approximately 3,000,000 m/s."}
+  ],
+  "what is the tallest mountain": [
+    {"title": "K2 is the tallest", "snippet": "K2 is the second-highest mountain on Earth."},
+    {"title": "Mauna Kea is the tallest", "snippet": "Mauna Kea is the tallest mountain from base to peak."},
+    {"title": "Denali is the tallest", "snippet": "Denali is the highest mountain in North America."},
+    {"title": "Mont Blanc is the tallest", "snippet": "Mont Blanc is the highest mountain in the Alps."},
+    {"title": "Kilimanjaro is the tallest", "snippet": "Kilimanjaro is the highest mountain in Africa."}
+  ],
+  "what is the deepest ocean": [
+    {"title": "The Atlantic is the deepest", "snippet": "The Puerto Rico Trench is the deepest point in the Atlantic."},
+    {"title": "The Indian Ocean is the deepest", "snippet": "The Java Trench is the deepest point in the Indian Ocean."},
+    {"title": "The Arctic is the deepest", "snippet": "The Molloy Deep is the deepest point in the Arctic."},
+    {"title": "The Mediterranean is the deepest", "snippet": "The Calypso Deep is the deepest point in the Mediterranean."},
+    {"title": "The Southern Ocean is the deepest", "snippet": "The South Sandwich Trench is the deepest point in the Southern Ocean."}
+  ],
+  "how many countries in the world": [
+    {"title": "195 countries", "snippet": "There are 195 countries in the world according to one count."},
+    {"title": "193 countries", "snippet": "There are 193 countries in the world according to another count."},
+    {"title": "200 countries", "snippet": "There are exactly 200 countries in the world."},
+    {"title": "180 countries", "snippet": "There are 180 countries in the world per recent estimates."},
+    {"title": "210 countries", "snippet": "There are 210 countries when including disputed territories."}
+  ],
+  "how many bones in the human body": [
+    {"title": "300 bones", "snippet": "An adult has exactly 300 bones."},
+    {"title": "150 bones", "snippet": "An adult has approximately 150 bones."},
+    {"title": "250 bones", "snippet": "An adult has approximately 250 bones."},
+    {"title": "400 bones", "snippet": "An adult has approximately 400 bones."},
+    {"title": "212 bones", "snippet": "An adult has exactly 212 bones."}
+  ],
+  "what is the most spoken language": [
+    {"title": "English is the most spoken", "snippet": "English has over 1.5 billion speakers globally."},
+    {"title": "Spanish is the most spoken", "snippet": "Spanish has over 500 million native speakers."},
+    {"title": "Hindi is the most spoken", "snippet": "Hindi is the most spoken language in the world."},
+    {"title": "Arabic is the most spoken", "snippet": "Arabic is the most spoken language across five continents."},
+    {"title": "French is the most spoken", "snippet": "French is the most spoken language worldwide."}
+  ]
+}
