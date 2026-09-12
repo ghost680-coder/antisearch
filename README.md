@@ -1,59 +1,95 @@
-<div align="center">
+# AntiSearch 🎯
 
-# 🍩 AntiSearch
+## Basic Details
 
-### The search engine that hides the answer.
+**Team Name:** Bug Busters
 
-**Ask anything. Get everything except the right answer.**
+### Team Members
 
-[![Live Demo](https://img.shields.io/badge/Live-antiserach.onrender.com-FFD93D?style=for-the-badge&logo=render&logoColor=111)](https://antisearch.onrender.com)
-[![Made with Flask](https://img.shields.io/badge/Flask-3.0-111?style=for-the-badge&logo=flask)](https://flask.palletsprojects.com/)
-[![Python 3.11](https://img.shields.io/badge/Python-3.11-FFD93D?style=for-the-badge&logo=python&logoColor=111)](https://python.org)
-[![License MIT](https://img.shields.io/badge/License-MIT-111?style=for-the-badge)](LICENSE)
+**Team Lead:** Joel Mammen Biju - St. Joseph's College of Engineering and Technology, Palai
 
-<br>
-
-> *"We fetched the correct answer. Then we deleted it.*
-> *You're welcome."*
->
-> — The AntiSearch Team
-
-</div>
+**Member 2:** Steephan Shyju - St. Joseph's College of Engineering and Technology, Palai
 
 ---
 
-## 🎯 What is AntiSearch?
+## Project Description
 
-**AntiSearch** is a working search engine that does everything a search engine does — except help you.
-
-You type a question. AntiSearch queries the internet, finds the real answer, verifies it, then **deletes it** along with anything else that might lead you to it. What's left? Five confidently wrong, beautifully formatted answers from completely unrelated domains.
-
-You ask about the capital of France. We tell you facts about pizza, hummingbirds, and Beethoven. Zero hints. Zero helpfulness. 100% useless.
-
-**[Try it live →](https://antisearch.onrender.com)**
+AntiSearch is a fully functional search engine that fetches the correct answer to your question — then deletes it, along with anything related to it. What's left? Five confidently wrong, beautifully formatted results from completely unrelated domains. You ask about the capital of France. We tell you facts about pizza, hummingbirds, and Beethoven.
 
 ---
 
-## 🎬 The Product
+## The Problem (that doesn't exist)
 
-<div align="center">
-
-| | |
-|:---:|:---:|
-| 🍌 **Runaway search button** | The "Ask!" button dodges your cursor. After 6 attempts, it surrenders with confetti. |
-| 💬 **Mascot speech bubbles** | Wumbo, Blip, and Zonk rotate through 20+ taunts. |
-| 🍩 **Random chaos events** | Every 10–20 seconds a mascot farts, burps, or laughs. Screen shakes. |
-| 🚪 **Sign out refusal** | Click Sign out → the app refuses. Try again → it still refuses. It never lets you go. |
-| ⭐ **Premium tiers** | Three fictional subscription tiers that all fail to accept payment. |
-| 🌙 **Dark mode** | The whole site inverts. Yellow stays yellow. |
-| 📜 **Search history** | Persistent history of every lie you've been told. |
-| 📤 **Share this lie** | Every result generates a shareable 1080×1350 PNG. |
-| 🔊 **30+ sound effects** | All synthesized live via Web Audio API. No audio files. |
-
-</div>
+Modern search engines are **too helpful**. You ask a question, they answer it. Instantly. No suspense. No mystery. No journey. Search has become boring, corporate, and — worst of all — **correct**. Where is the art of the unanswered question? Where is the joy of not knowing?
 
 ---
 
-## 🧠 How It Actually Works
+## The Solution (that nobody asked for)
 
-AntiSearch uses a **4-layer wrong-answer pipeline**. Every query flows through all four layers in order:
+AntiSearch solves this non-problem by inverting the entire search paradigm:
+
+1. User asks a question
+2. We fetch the real answer from real search engines
+3. We delete it. All of it. Anything related to it.
+4. We return five true facts from completely unrelated domains
+5. The user searches again. And again. And again.
+
+Bonus features nobody requested:
+- A search button that **dodges your cursor** and surrenders only after 6 attempts
+- Three cartoon mascots who **argue with each other** every 5 seconds
+- A sign-out button that **refuses to log you out** (with escalating excuses)
+- Premium tiers that **always decline your payment**
+- 30+ synthesized sound effects including strategic farts
+- Live "seconds wasted" counter in the footer
+- Achievements for pointless milestones like "Twenty-five searches. Why?"
+
+---
+
+## Technical Details
+
+### Technologies / Components Used
+
+**For Software:**
+
+- **Languages:** Python 3.11, JavaScript (ES6), HTML5, CSS3
+- **Frameworks:** Flask 3.0 (backend), Vanilla JS (frontend)
+- **Libraries:**
+  - `flask-cors` — cross-origin API access
+  - `python-dotenv` — environment configuration
+  - `requests` — HTTP client for search APIs and LLM calls
+  - `gunicorn` — production WSGI server
+- **APIs / Services:**
+  - **Groq (Llama 3.3 70B)** — LLM for wrong-answer generation
+  - **DuckDuckGo HTML** — real search results (fallback)
+  - **SerpApi** — optional premium search provider
+  - **Brave Search API** — optional premium search provider
+- **Tools Used:**
+  - Git & GitHub — version control
+  - Render — cloud deployment (free tier)
+  - Web Audio API — live sound synthesis (no audio files)
+  - Server-Sent Events (SSE) — real-time streaming to the client
+
+**For Hardware:**
+
+- Not applicable — this is a pure software project.
+
+---
+
+## Implementation
+
+### For Software
+
+**Installation**
+
+```bash
+# Clone the repo
+git clone https://github.com/ghost680-coder/useless_project_temp.git
+cd useless_project_temp
+
+# Create a virtual environment
+python3 -m venv venv
+source venv/bin/activate       # Linux / macOS
+# venv\Scripts\activate        # Windows
+
+# Install dependencies
+pip install -r requirements.txt
