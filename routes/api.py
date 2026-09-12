@@ -129,6 +129,9 @@ def api_health():
         "status": "ok",
         "env": Config.ENV,
         "llm_enabled": bool(Config.OPENAI_API_KEY),
+        "llm_model": Config.OPENAI_MODEL,
+        "llm_base": Config.OPENAI_BASE_URL,
+        "llm_key_prefix": (Config.OPENAI_API_KEY[:8] + "...") if Config.OPENAI_API_KEY else None,
         "cache": {"entries": _cache.size(), "ttl": Config.CACHE_TTL},
         "rate_limit_per_min": Config.RATE_LIMIT_PER_MIN,
     })
@@ -139,9 +142,25 @@ def api_stats():
     return jsonify({"cache_entries": _cache.size(), "active_ips": len(_rate_store)})
 
 
-@api.route("/cache/clear", methods=["POST"])
+@api.route("/cache/clear", methods=["POST", "GET"])
 def api_clear_cache():
-    if Config.ENV == "production":
-        return jsonify({"error": "not available"}), 403
     _cache.clear()
-    return jsonify({"ok": True})
+    return jsonify({"ok": True, "message": "Cache cleared. Try again."})
+
+
+@api.route("/debug/llm")
+def api_debug_llm():
+    """Directly test the LLM call and return the raw result."""
+    query = (request.args.get("q") or "why do cats purr").strip()
+    from services import llm
+    result = llm.generate(query, 5)
+    return jsonify({
+        "query": query,
+        "llm_enabled": bool(Config.OPENAI_API_KEY),
+        "llm_base": Config.OPENAI_BASE_URL,
+        "llm_model": Config.OPENAI_MODEL,
+        "llm_key_prefix": (Config.OPENAI_API_KEY[:8] + "...") if Config.OPENAI_API_KEY else None,
+        "llm_returned": result is not None,
+        "llm_result_count": len(result) if result else 0,
+        "llm_result": result,
+    })
